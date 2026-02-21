@@ -16,6 +16,7 @@ This project benchmarks the global AI landscape, providing a "C-Suite ready" nar
 3. **Company Proof Points:** A deep dive into P&L impact for leaders like NVIDIA, Meta, and Klarna.
 4. **Model Intelligence:** Visualizing "Scaling Laws"—the relationship between parameters, MMLU scores, and context windows.
 5. **AI Velocity:** A benchmark of the AI Era vs. the Internet and SaaS Eras.
+6. **Sales Enablement:** An interactive toolkit featuring Sector Use-Cases (Best/Worst Case scenarios) and a Stakeholder Objection Vault (CISO, CFO, Legal) with verified technical solutions and scripts.
 
 ## Tech Stack
 * **Language:** Python 3.9+
