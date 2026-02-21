@@ -1,0 +1,7 @@
+Metric,Internet_Val,SaaS_Val,AI_Val,Unit,Internet_Year,SaaS_Year,AI_Year,Full_Source_Citations
+Time to 100M Users,84,30,2,Months,1990–1997,2010–2012,2022–2023,ITU Database (1997); Sensor Tower (2012); UBS/OpenAI (2023)
+Peak Infra Spend,120,32,490,$Billion,1999–2000,2015,2025,Fed Reserve (2004); IDC Cloud Tracker (2015); Gartner (2025)
+Startup Entry Cost,5000,50,0.15,$USD,1996,2012,2025,Sun Hardware (1996); AWS Calculator (2012); OpenAI API (2024)
+Rev per Employee,"200,000","245,000","3,480,000",$USD,2000,2018,2025,S&P Index (2000); OPEXEngine Study (2018); Owyang Leaderboard (2025)
+Cycle Focus,Connectivity,Scalability,Intelligence,Pillar,1995–2000,2010–2020,2022–2026,Bessemer 'State of the Cloud'; World Bank Digital Reports; IDC 2026
+Infrastructure Base,Fiber/Telecom,Public Cloud,GPU/Compute,Foundation,1995–2005,2006–2022,2023–2026,Gartner Trends; Cisco VNI; NVIDIA Data Center Disclosures (2025)

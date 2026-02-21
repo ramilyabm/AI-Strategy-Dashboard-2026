@@ -1,0 +1,23 @@
+Industry,Use Case,Model/Tech Stack,Verdict,"The ""Why"" (Technical/Business Reason)",Year,Citation
+Manufacturing,Generative Design,Autodesk Fusion (GenAI),Best Case,Reduced part weight by 40% using AI to iterate thousands of structural options impossible for humans to draft.,2024,Autodesk / GM Case Study
+Manufacturing,"Maintenance ""Help""",Unfine-tuned LLM,Worst Case,"Bot hallucinated safety procedures for heavy machinery (e.g., ""override safety valve""), creating critical safety risk.",2024,Rockwell Automation Safety Report
+Energy,Grid Load Balancing,Deep Reinforcement Learning,Best Case,"DeepMind AI managed wind/solar variability 20% better than human operators, stabilizing the UK grid.",2025,National Grid / DeepMind Update
+Energy,Outage Prediction,Black Box ML,Worst Case,"High false-positive rate sent repair crews to healthy transformers, wasting millions in OpEx.",2023,EPRI (Electric Power Research Inst.)
+Logistics,Dynamic Routing,Graph Neural Networks,Best Case,"UPS ""Orion"" updated routes in real-time to avoid traffic/weather, saving 100M+ miles of fuel annually.",2023,UPS Tech Blog
+Logistics,Customer Support,Public Chatbot (LLM),Worst Case,DPD's chatbot swore at a customer and wrote a poem about how bad the company was; PR disaster.,2024,"DPD UK ""Swearing Bot"" Incident"
+Gaming,Asset Generation,Roblox GenAI Tools,Best Case,"""Code Assist"" and ""Texture Gen"" lowered the barrier for creators, boosting platform engagement.",2024,Roblox Developers Conference (RDC)
+Gaming,AI Voice Acting,Text-to-Speech (ElevenLabs),Worst Case,"""The Finals"" game faced massive player/actor backlash for using AI voices, damaging brand sentiment.",2023,Embark Studios / IGN Report
+Tech/SaaS,Code Autocomplete,GitHub Copilot,Best Case,"55% faster coding for boilerplate tasks; verified high ROI by reducing developer ""grunt work.""",2024,GitHub Research
+Tech/SaaS,IP Leakage,Public ChatGPT,Worst Case,Samsung engineers pasted proprietary source code into public chat; data leaked to model trainers.,2023,Samsung Internal Memo Leak
+Healthcare,Clinical Documentation,Nuance DAX (GPT-4),Best Case,Ambient AI records doctor-patient visits and writes notes automatically; reduced burnout significantly.,2024,Microsoft Nuance Outcomes
+Healthcare,Diagnostic Advice,Generic GPT-4,Worst Case,Model cited fake medical papers to justify incorrect treatments; zero liability tolerance.,2023,JAMA Internal Medicine Study
+Finance,Internal Knowledge,Morgan Stanley Assistant,Best Case,"RAG-based search across 100k PDF reports gave advisors instant, accurate answers.",2024,Morgan Stanley Strategic Update
+Finance,Mortgage Compliance,"""MyCity"" Chatbot",Worst Case,NYC Gov bot gave landlords illegal advice on rental laws; failed to update with new regulations.,2024,The Markup / NYC Tech Report
+Retail,Loss Prevention,Computer Vision,Best Case,"""Self-checkout"" cameras detected non-scanned items (sweethearting) with 95% accuracy.",2024,Kroger / Everseen Deployment
+Retail,Drive-Thru Voice,IBM Voice AI,Worst Case,Audio interference caused absurd errors (bacon on ice cream); tech failed in noisy real-world conditions.,2024,McDonald's / IBM Partnership End
+Legal,Due Diligence,Harvey AI,Best Case,Analyzed thousands of M&A contracts in hours vs. weeks; massive speed advantage.,2024,Allen & Overy Implementation
+Legal,Court Filings,Public ChatGPT,Worst Case,"Lawyer cited 6 non-existent cases (""Varghese v. China Southern"") invented by the AI.",2023,Mata v. Avianca (SDNY Ruling)
+Media,Post-Production,Adobe Firefly,Best Case,"""Generative Fill"" cut hours of Photoshop editing time for designers; commercially safe (trained on stock).",2024,Adobe Max Keynote
+Media,Content Gen,Sports Illustrated,Worst Case,Published AI-written articles by fake authors; massive reputation loss and staff resignations.,2024,Arena Group / Futurism Expose
+Education,Personalized Tutor,Khanmigo,Best Case,Socratic tutor (guides without giving answers) scaled 1:1 mentorship to thousands of students.,2024,Khan Academy Impact Report
+Education,Cheating Detection,Turnitin AI,Worst Case,High false-positive rates accused honest students of using AI; lack of explainability caused protests.,2023,Washington Post / Turnitin Analysis

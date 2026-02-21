@@ -1,0 +1,21 @@
+Company,Sector,Year,Quantitative Value,AI Category,Impact_Score,Score_Logic
+NVIDIA,Tech/SaaS,2026,$51.2B Data Center Rev (Q3),Infrastructure,10,"Primary infrastructure provider; defines the ""Compute Era"" market."
+Meta,Media,2025,+18% Ad Volume / 10k-x Efficiency,Agentic,9,"""Andromeda"" engine rebuilt core business into 100% AI-retrieval."
+Palantir,Tech/SaaS,2025,+137% US Commercial Rev Growth,Agentic,9,AIP turns commodity models into high-moat OS for Fortune 500.
+Microsoft,Tech/SaaS,2026,39% Azure Growth Contribution,Agentic,9,"Shifted world's largest software ecosystem to ""Copilot-first"" consumption."
+TSMC,Tech/SaaS,2025,+39% Net Profit YoY,Infrastructure,9,Singular foundry bottleneck for 100% of high-end AI chips.
+Salesforce,Tech/SaaS,2026,$1.4B Agentforce ARR,Agentic,8,Successful pivot to Agentic CRM; cannibalizing seats for consumption.
+Tesla,Automotive,2025,1.1M Active FSD Users,Agentic,8,Transitioning from Car Maker to a high-margin Robotics Platform.
+Alphabet,Tech/SaaS,2025,$17.7B Cloud Rev (+48% Growth),Agentic,8,Using AI to win enterprise cloud market share from legacy incumbents.
+Klarna,Finance,2024,Work Equivalent of 700 agents,Agentic,7,The global benchmark for GenAI labor displacement and OpEx reduction.
+Netflix,Media,2025,$1.0B Annual Churn Savings,Predictive,7,High efficiency; AI is the core reason for superior retention rates.
+P&G,Retail,2025,15-point Drop in Out-of-Stocks,Agentic,6,"""AI Factory"" model standardizes supply chain delivery at scale."
+JPMorgan,Finance,2023,"360,000 Labor Hours Saved",Predictive,6,"Significant efficiency, though primarily optimizing legacy contract reviews."
+UnitedHealth,Healthcare,2026,+50 bps Margin Improvement,Agentic,6,Meaningful P&L impact through autonomous claims orchestration.
+Apple,Tech/SaaS,2025,+15% Services Revenue Lift,Agentic,6,Apple Intelligence driving ecosystem lock-in and device upgrades.
+Eli Lilly,Healthcare,2025,$55B AI-Led R&D Pipeline,Predictive,6,"Accelerating the drug discovery ""Time-to-Market"" cycle significantly."
+Mars,Retail,2025,198% Speed-to-Insight Increase,Agentic,5,Strong productivity win; enables hyper-agile marketing response.
+Mastercard,Finance,2024,200% Fraud Detection Improvement,Predictive,5,High-value optimization of a core legacy function.
+Estée Lauder,Retail,2025,31% Media Campaign ROI,Predictive,5,Departmental optimization; improves marketing spend efficiency.
+Nike,Retail,2026,50% Lead Time Reduction,Agentic,5,AI-driven autonomous supply chain rebalancing.
+Siemens,Manufacturing,2025,50% Productivity Gain (Target),Agentic,7,Industrial AI transforming the factory floor into a software product.
