@@ -5,7 +5,7 @@
 An interactive Strategic Analysis dashboard built with **Python** and **Streamlit**, designed to visualize the evolution of Artificial Intelligence from experimental research to autonomous agentic scale.
 
 ## Live Demo
-
+https://ai-strategy-rami.streamlit.app/
 
 ## Executive Overview
 This project benchmarks the global AI landscape, providing a "C-Suite ready" narrative on ROI, sector maturity, and the physical scaling of intelligence. It transitions from traditional data visualization to strategic storytelling.
